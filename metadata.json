@@ -1,0 +1,8 @@
+{
+  "name": "Sugar-NXT Cane Quality & Waste Manager",
+  "description": "A comprehensive mobile-first PWA for Gujarat sugar mills to analyze cane quality, book delivery slots, and manage bagasse waste for biofuel potential.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
